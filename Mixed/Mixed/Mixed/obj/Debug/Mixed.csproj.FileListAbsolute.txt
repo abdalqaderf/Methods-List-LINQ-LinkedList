@@ -1,0 +1,7 @@
+C:\Users\abood\Desktop\C#\Methods-List-LINQ-LinkedList\Mixed\Mixed\Mixed\bin\Debug\Mixed.exe.config
+C:\Users\abood\Desktop\C#\Methods-List-LINQ-LinkedList\Mixed\Mixed\Mixed\bin\Debug\Mixed.exe
+C:\Users\abood\Desktop\C#\Methods-List-LINQ-LinkedList\Mixed\Mixed\Mixed\bin\Debug\Mixed.pdb
+C:\Users\abood\Desktop\C#\Methods-List-LINQ-LinkedList\Mixed\Mixed\Mixed\obj\Debug\Mixed.csproj.AssemblyReference.cache
+C:\Users\abood\Desktop\C#\Methods-List-LINQ-LinkedList\Mixed\Mixed\Mixed\obj\Debug\Mixed.csproj.CoreCompileInputs.cache
+C:\Users\abood\Desktop\C#\Methods-List-LINQ-LinkedList\Mixed\Mixed\Mixed\obj\Debug\Mixed.exe
+C:\Users\abood\Desktop\C#\Methods-List-LINQ-LinkedList\Mixed\Mixed\Mixed\obj\Debug\Mixed.pdb
