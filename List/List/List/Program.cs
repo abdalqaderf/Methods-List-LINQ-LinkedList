@@ -53,6 +53,10 @@ namespace List
             Console.WriteLine(new5.Count());
 
 
+            Console.WriteLine("\n");
+
+
+
 
 
 
